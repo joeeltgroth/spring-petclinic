@@ -52,6 +52,6 @@ public class Person extends BaseEntity {
 	}
 
   public void anUnusedMethod() {
-    String junk = "hi";
+    String junk = "hi there";
   }
 }
