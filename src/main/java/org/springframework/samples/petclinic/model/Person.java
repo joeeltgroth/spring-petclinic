@@ -54,4 +54,5 @@ public class Person extends BaseEntity {
 	public void anUnusedMethod(String lastName) {
 		this.lastName = lastName;
 	}
+
 }
